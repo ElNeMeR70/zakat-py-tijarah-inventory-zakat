@@ -1,0 +1,7 @@
+[project]
+name = "zakat-py-tijarah-inventory-zakat"
+version = "1.0.0"
+description = "Urud Al-Tijarah Net Working Capital & Inventory Zakat Calculator (محرك زكاة عروض التجارة ورأس المال العامل والديون)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
